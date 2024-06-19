@@ -1,0 +1,2 @@
+"This is all being Staged!"
+"You Should Commit it to memory!"
